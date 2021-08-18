@@ -1,0 +1,2 @@
+#define endl printf("\n")
+
